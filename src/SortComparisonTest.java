@@ -24,12 +24,7 @@ import org.junit.runners.JUnit4;
 //1000 ascending order		5029380 |3244079 |811543 | 803485| 7359123  | 3135485
 //
 //-------------------------------------------------------------------------
-/**
- *  Test class for SortComparison.java
- *
- *  @author
- *  @version HT 2019
- */
+
 @RunWith(JUnit4.class)
 public class SortComparisonTest
 {
